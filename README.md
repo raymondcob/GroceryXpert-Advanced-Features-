@@ -34,7 +34,7 @@ A web-based grocery management system that helps track products and generate bud
 
 - Backend:
   - PHP
-  - PostgreSQL Database
+  - MYSQL
   - mPDF for PDF generation
 
 ## Installation
